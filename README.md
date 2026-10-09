@@ -12,4 +12,4 @@ This module **requires a Lucee webservice** deployed on each target backend serv
 ## Installation
 
 ```bash
-npm install spfx-lucee-failover
+npm i @bdking71/spfailoverservice

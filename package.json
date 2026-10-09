@@ -1,12 +1,20 @@
 {
-  "name": "@bdking71/spFailoverService",
-  "version": "1.0.0",
+  "name": "@bdking71/spfailoverservice",
+  "version": "1.0.1",
   "description": "Failover service and UI banner for multi-server Lucee environments in SharePoint Framework (SPFx).",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdking71/spFailoverService.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bdking71/spFailoverService/issues"
+  },
+  "homepage": "https://github.com/bdking71/spFailoverService#readme",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
