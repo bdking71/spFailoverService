@@ -1,6 +1,6 @@
 {
   "name": "@bdking71/spfailoverservice",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Failover service and UI banner for multi-server Lucee environments in SharePoint Framework (SPFx).",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
